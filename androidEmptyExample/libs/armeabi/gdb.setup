@@ -1,0 +1,6 @@
+set solib-search-path /home/mint/work/openframeworks/of_v0.8.0_android_release/examples/android/androidEmptyExample//obj/local/armeabi:/home/mint/work/openframeworks/of_v0.8.0_android_release/examples/android/androidEmptyExample//libs/armeabi
+directory /home/mint/work/openframeworks/android-ndk-r8d/platforms/android-14/arch-arm/usr/include
+directory /home/mint/work/openframeworks/of_v0.8.0_android_release/examples/android/androidEmptyExample//src
+directory /home/mint/work/openframeworks/android-ndk-r8d/sources/cxx-stl/system
+directory /home/mint/work/openframeworks/of_v0.8.0_android_release/examples/android/androidEmptyExample//libs/armeabi
+
